@@ -1,0 +1,16 @@
+{
+   "name": "reisebot",
+   "version": "1.0.0",
+   "description": "reisetech bot",
+   "main": "src/index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "@discordjs/voice": "^0.16.1",
+      "discord.js": "^14.14.1",
+      "dotenv": "^16.3.1"
+   }
+}
